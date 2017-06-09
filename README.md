@@ -1,5 +1,5 @@
 # Learning deep learning
-Learning Keras and TensorFlow.
+Learning deep learning with TensorFlow and Keras.
 
 Resources I found helpful:
 * [Introduction to Deep Neural Networks with Keras and TensorFlow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) by Valerio Maggio
